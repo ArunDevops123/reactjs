@@ -11,4 +11,5 @@ windows
 
 Basic package
 **************
-npm install material-ui
+
+npm install @material-ui/core @material-ui/icons
