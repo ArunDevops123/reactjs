@@ -4,3 +4,4 @@ windows
 2. cd react-app --> navigate to that folder
 3. npm start --> it will start the react on your web
 4. npm i bootstrap@4.1.1 --> install bootstrap
+5. import 'bootstrap/dist/css/bootstrap.css';        --> add the line in "index.js" file
