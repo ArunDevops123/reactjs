@@ -5,3 +5,10 @@ windows
 3. npm start --> it will start the react on your web
 4. npm i bootstrap@4.1.1 --> install bootstrap
 5. import 'bootstrap/dist/css/bootstrap.css';        --> add the line in "index.js" file
+
+
+
+
+Basic package
+**************
+npm install material-ui
