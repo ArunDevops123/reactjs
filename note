@@ -4,3 +4,9 @@ install form vc code extension
 ******************************
 Simple React Snippets   
 Prettier - Code formatter  
+
+
+
+note
+****
+useLayoutEffect and useEffect  --> both are same but compare to useEffect , useLayoutEffect is working fast.
