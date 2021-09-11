@@ -17,3 +17,5 @@ Basic package
 npm install @material-ui/core @material-ui/icons
 
 npm install -S react-router-dom   --> for link module
+
+npm install axios  --> import axios form 'axios';
