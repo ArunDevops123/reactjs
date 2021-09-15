@@ -1,0 +1,9 @@
+responsive image css
+**********************
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6rem;
+    height: 6rem;
+    padding-top: 2rem;
