@@ -7,3 +7,11 @@ responsive image css
     width: 6rem;
     height: 6rem;
     padding-top: 2rem;
+    
+    
+    
+ move text up
+ *************
+ 
+   position: 'relative',
+   bottom: '10px',
