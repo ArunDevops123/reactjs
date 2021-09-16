@@ -12,3 +12,15 @@ or
 <RemoveScroll>
   Only this content would be scrollable
 </RemoveScroll>
+
+
+
+
+show webpage in default size
+*****************************
+
+    <div style={{
+      zoom: '80%',
+    }}>
+    
+    
