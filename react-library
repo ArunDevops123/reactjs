@@ -1,0 +1,14 @@
+remove the scrollbar
+*********************
+
+npm i react-remove-scroll-bar  --> install
+
+import {RemoveScrollBar} from 'react-remove-scroll-bar';   --> import 
+
+<RemoveScrollBar />
+
+or
+
+<RemoveScroll>
+  Only this content would be scrollable
+</RemoveScroll>
