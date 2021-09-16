@@ -5,8 +5,11 @@ npm i react-remove-scroll-bar  --> install
 
 import {RemoveScrollBar} from 'react-remove-scroll-bar';   --> import 
 
+<div>
+
 <RemoveScrollBar />
 
+<div />
 or
 
 <RemoveScroll>
